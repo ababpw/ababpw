@@ -5,7 +5,7 @@ function y_ipad(){
   //移动端处理
  }
 }
-var text="该以怎样的速度去生活，才能与你重逢.";
+var text="总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。.";
 var delay=125;
 var i=0;
 function scrollit(){
